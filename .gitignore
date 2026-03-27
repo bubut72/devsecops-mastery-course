@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Java
+target/
+*.class
+*.log
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+.env.*
+
+# Reports
+*.sarif
+*.html
+*.xml
+
+# Misc
+coverage/
+dist/
+build/

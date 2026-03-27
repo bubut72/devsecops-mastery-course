@@ -1,0 +1,39 @@
+# Day 20: SAST in GitHub Actions
+
+## Goal
+Learn the core ideas for **sast in github actions** and apply them to the course project.
+
+## Topics
+- Pipeline stages
+- Build breakers
+- Feedback loops
+
+## Hands-on Task
+Add SonarQube scan to CI
+
+## Deliverable
+Automated SAST on every push.
+
+## Suggested Time
+- Theory: 30–45 minutes
+- Hands-on: 60–120 minutes
+- Review: 15 minutes
+
+## Git Commit Suggestion
+```bash
+git add .
+git commit -m "day 20: sast in github actions"
+```
+
+## Notes
+Use this page to record:
+- what you built
+- what broke
+- what you fixed
+- screenshots
+- links to commits and pull requests
+
+## End-of-Day Reflection
+1. What did I secure today?
+2. What is still risky?
+3. What should I automate next?
