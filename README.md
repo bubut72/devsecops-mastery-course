@@ -2,8 +2,6 @@
 
 A hands-on **beginner-to-advanced DevSecOps course** built around daily lessons and end-to-end projects.
 
-This repository is organized so that **each day has its own Markdown file**, making it easy to study, track progress, and publish updates over time.
-
 ## Who this course is for
 - Developers moving into DevSecOps
 - DevOps engineers adding security practices
