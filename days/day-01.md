@@ -894,40 +894,7 @@ For today, the point is:
 
 ---
 
-# 18. Create your Day 1 notes file
-
-Inside your course repo, edit `days/day-01.md`.
-
-You can put this structure in it.
-
-```md
-# Day 1 - DevSecOps Foundations
-
-## What I learned
-- DevOps combines development and operations for faster, more reliable delivery.
-- DevSecOps adds security into the entire lifecycle.
-- Shift left means moving security earlier into planning, design, and coding.
-- Security is not only a final review step.
-- Automation is essential for scalable security.
-
-## Tools installed
-- Git
-- Java
-- Maven
-- Docker
-
-## Hands-on completed
-- Created Spring Boot starter project
-- Added first REST endpoint
-- Ran the application locally
-
-## Reflection
-Security must be part of how software is designed and delivered, not just tested at the end.
-```
-
----
-
-# 19. Day 1 lab
+# 18. Day 1 lab
 
 Here is your practical exercise for today.
 
@@ -966,7 +933,7 @@ git push
 
 ---
 
-# 20. Common Day 1 mistakes
+# 19. Common Day 1 mistakes
 
 ## Mistake 1: Treating DevSecOps as only tools
 
@@ -990,7 +957,7 @@ You need a real application target first.
 
 ---
 
-# 21. Interview-style questions for Day 1
+# 20. Interview-style questions for Day 1
 
 Try answering these yourself.
 
@@ -1024,7 +991,7 @@ No. It includes culture, secure design, shared responsibility, secure coding, au
 
 ---
 
-# 22. Simple analogy
+# 21. Simple analogy
 
 Think of building a house.
 
@@ -1046,7 +1013,7 @@ That is smarter, cheaper, and safer.
 
 ---
 
-# 23. What you should remember most from Day 1
+# 22. What you should remember most from Day 1
 
 If you remember only five things, remember these:
 
@@ -1058,7 +1025,7 @@ If you remember only five things, remember these:
 
 ---
 
-# 24. Homework
+# 23. Homework
 
 Complete these today:
 
