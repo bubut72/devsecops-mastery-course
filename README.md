@@ -24,25 +24,6 @@ This repository is organized so that **each day has its own Markdown file**, mak
 - Monitoring and operational security
 - End-to-end DevSecOps capstone delivery
 
-## Repository structure
-```text
-devsecops-course-repo/
-├── README.md
-├── .gitignore
-└── days/
-    ├── day-01.md
-    ├── day-02.md
-    ├── ...
-    └── day-84.md
-```
-
-## How to use this repository
-1. Read one day at a time.
-2. Create a working project folder beside this repo or inside a `/projects` folder.
-3. Commit your work daily.
-4. Add screenshots, notes, issues, and fixes to each day’s Markdown file.
-5. Open pull requests to yourself if you want a clean review trail.
-
 ## Daily lessons
 - [Day 1: Introduction to DevSecOps](days/day-01.md)
 - [Day 2: CIA Triad and Security Mindset](days/day-02.md)
